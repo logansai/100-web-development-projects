@@ -78,7 +78,7 @@ Please note that the links provided are the GitHub repository URLs for each proj
 
 ### How to Contribute
 
-We welcome contributions from developers of all skill levels! Whether you're adding a new project or improving existing ones, your contributions are highly appreciated. Simply fork this repository, create a new branch with your changes, and submit a pull request. Don't forget to adhere to our contribution guidelines!
+Contributions from developers of all skill levels are accepted! Whether you're adding a new project or improving existing ones, your contributions are highly appreciated. Simply fork this repository, create a new branch with your changes, and submit a pull request. Don't forget to adhere to our contribution guidelines!
 
 ### Get Started
 

@@ -44,9 +44,3 @@ This Contributor Code of Conduct is adapted from the [Contributor Covenant](http
 
 For answers to common questions about this code of conduct, see [https://www.contributor-covenant.org/faq](https://www.contributor-covenant.org/faq).
 
----
-
-<p align="center">
-  Copyright © 2023 <b><a href="https://github.com/SERVER-X-101">SERVER-X-101</a></b>. All rights reserved. <br/>
-</p>
-
